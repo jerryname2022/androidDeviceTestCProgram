@@ -9,4 +9,4 @@ adb push [your program]  /data/local/tmp/
 adb shell
 
 cd /data/local/tmp/
-./<your program>
+./[your program] 
