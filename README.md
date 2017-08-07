@@ -4,7 +4,7 @@
 
 #push program to your device`s /data/local/tmp/  
 
-adb push <your program>  /data/local/tmp/
+adb push [your program]  /data/local/tmp/
 
 adb shell
 
